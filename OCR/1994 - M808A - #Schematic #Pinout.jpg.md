@@ -1,5 +1,5 @@
 # 1994 - M808A - #Schematic #Pinout.jpg
-Wiki page: [M808A](../../../PAGES/M808A.md)
+Wiki page: [M808A](../../../../PAGES/M808A.md)
 
 
 - **Year:** 1994 (module estimate (family))
@@ -51,7 +51,7 @@ OUTPUT
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M808A/1994 - M808A - #Schematic #Pinout.jpg",
+ "file": "Modules/AMPLIFIERS/M808A/PINOUTS/1994 - M808A - #Schematic #Pinout.jpg",
  "sha256": "1e4c85178db4bead151a8c8b2c18d876a7f6315abdc12b9b12b91807732d9c6b",
  "kind": "module",
  "models": [
