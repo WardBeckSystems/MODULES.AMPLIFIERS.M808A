@@ -11,6 +11,17 @@ Wiki page: [M808A](../../../../PAGES/M808A.md)
 - **Size:** 1,759,036 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 432 × 120 mm, 2000 × 556 px traced (0.216 mm/px)
+- **Ink extent:** 14–426 mm across, 9–104 mm up
+- **Outlines:** line 311 rings, 3,499 straight (9,131 mm) / 727 curved (977 mm); text 74 rings, 431 straight (403 mm) / 157 curved (194 mm)
+- **Circles and arcs:** 3 circles, 0 arcs; largest r 0.9 @ (290.2, 56.7), r 0.9 @ (183.3, 56.5), r 0.9 @ (333.6, 56.9)
+- **Closed boxes:** 26
+- **Words (OCR):** 18 in 16 lines: CTLZ · CtLs INS · crs · In4003 · Cris · IN4003 · (RL · (r4 · cr6 · (rb · ceio- · ceilt
+
+Every curve, box, word and wire group: [1994 - M808A - #Schematic #Pinout (traced).json](../PINOUTS/1994%20-%20M808A%20-%20%23Schematic%20%23Pinout%20%28traced%29.json) (the CAD file: `1994 - M808A - #Schematic #Pinout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)
