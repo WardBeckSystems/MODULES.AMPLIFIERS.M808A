@@ -1,0 +1,474 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1994 - M808A - #Schematic #Pinout.jpg",
+  "module": "M808A",
+  "applies_to": [
+    "M808A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": null,
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": null,
+      "rows": "numbers and letters (as on schematic arrows)",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "CTL1",
+      "signal": "CONTROL 1",
+      "kind": "control_in",
+      "port": "CTL 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "IN 1",
+      "signal": "IN 1",
+      "kind": "in",
+      "port": "IN 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": null,
+      "as_drawn": "IN 1",
+      "signal": "IN 1",
+      "kind": "in",
+      "port": "IN 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": null,
+      "as_drawn": "CTL2",
+      "signal": "CONTROL 2",
+      "kind": "control_in",
+      "port": "CTL 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "IN 2",
+      "signal": "IN 2",
+      "kind": "in",
+      "port": "IN 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": null,
+      "as_drawn": "IN 2",
+      "signal": "IN 2",
+      "kind": "in",
+      "port": "IN 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "CTL3",
+      "signal": "CONTROL 3",
+      "kind": "control_in",
+      "port": "CTL 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "IN 3",
+      "signal": "IN 3",
+      "kind": "in",
+      "port": "IN 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": null,
+      "as_drawn": "IN 3",
+      "signal": "IN 3",
+      "kind": "in",
+      "port": "IN 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": null,
+      "as_drawn": "CTL4",
+      "signal": "CONTROL 4",
+      "kind": "control_in",
+      "port": "CTL 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "IN 4",
+      "signal": "IN 4",
+      "kind": "in",
+      "port": "IN 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": null,
+      "as_drawn": "IN 4",
+      "signal": "IN 4",
+      "kind": "in",
+      "port": "IN 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "CTL5",
+      "signal": "CONTROL 5",
+      "kind": "control_in",
+      "port": "CTL 5",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "IN 5",
+      "signal": "IN 5",
+      "kind": "in",
+      "port": "IN 5",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": null,
+      "as_drawn": "IN 5",
+      "signal": "IN 5",
+      "kind": "in",
+      "port": "IN 5",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": null,
+      "as_drawn": "CTL6",
+      "signal": "CONTROL 6",
+      "kind": "control_in",
+      "port": "CTL 6",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "IN 6",
+      "signal": "IN 6",
+      "kind": "in",
+      "port": "IN 6",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": null,
+      "as_drawn": "IN 6",
+      "signal": "IN 6",
+      "kind": "in",
+      "port": "IN 6",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "CTL7",
+      "signal": "CONTROL 7",
+      "kind": "control_in",
+      "port": "CTL 7",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "IN 7",
+      "signal": "IN 7",
+      "kind": "in",
+      "port": "IN 7",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": null,
+      "as_drawn": "IN 7",
+      "signal": "IN 7",
+      "kind": "in",
+      "port": "IN 7",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": null,
+      "as_drawn": "CTL8",
+      "signal": "CONTROL 8",
+      "kind": "control_in",
+      "port": "CTL 8",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "IN 8",
+      "signal": "IN 8",
+      "kind": "in",
+      "port": "IN 8",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": null,
+      "as_drawn": "IN 8",
+      "signal": "IN 8",
+      "kind": "in",
+      "port": "IN 8",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "+24V CTL",
+      "signal": "+24 V CONTROL",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT (K5-K8 BUS)",
+      "kind": "out",
+      "port": "OUTPUT A",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT (K5-K8 BUS)",
+      "kind": "out",
+      "port": "OUTPUT A",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT (K1-K4 BUS)",
+      "kind": "out",
+      "port": "OUTPUT B",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT (K1-K4 BUS)",
+      "kind": "out",
+      "port": "OUTPUT B",
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "IN 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-15",
+        "b": "P1-S"
+      }
+    },
+    {
+      "name": "CTL 1",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-2"
+      }
+    },
+    {
+      "name": "IN 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-14",
+        "b": "P1-R"
+      }
+    },
+    {
+      "name": "CTL 2",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-B"
+      }
+    },
+    {
+      "name": "IN 3",
+      "dir": "in",
+      "pins": {
+        "a": "P1-13",
+        "b": "P1-P"
+      }
+    },
+    {
+      "name": "CTL 3",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-4"
+      }
+    },
+    {
+      "name": "IN 4",
+      "dir": "in",
+      "pins": {
+        "a": "P1-12",
+        "b": "P1-N"
+      }
+    },
+    {
+      "name": "CTL 4",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-D"
+      }
+    },
+    {
+      "name": "IN 5",
+      "dir": "in",
+      "pins": {
+        "a": "P1-11",
+        "b": "P1-M"
+      }
+    },
+    {
+      "name": "CTL 5",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-5"
+      }
+    },
+    {
+      "name": "IN 6",
+      "dir": "in",
+      "pins": {
+        "a": "P1-10",
+        "b": "P1-L"
+      }
+    },
+    {
+      "name": "CTL 6",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-E"
+      }
+    },
+    {
+      "name": "IN 7",
+      "dir": "in",
+      "pins": {
+        "a": "P1-9",
+        "b": "P1-K"
+      }
+    },
+    {
+      "name": "CTL 7",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-7"
+      }
+    },
+    {
+      "name": "IN 8",
+      "dir": "in",
+      "pins": {
+        "a": "P1-8",
+        "b": "P1-J"
+      }
+    },
+    {
+      "name": "CTL 8",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-H"
+      }
+    },
+    {
+      "name": "OUTPUT A",
+      "dir": "out",
+      "pins": {
+        "a": "P1-6",
+        "b": "P1-F"
+      }
+    },
+    {
+      "name": "OUTPUT B",
+      "dir": "out",
+      "pins": {
+        "a": "P1-3",
+        "b": "P1-C"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "J3/J4 BUS LINK",
+      "pins": [
+        "J3",
+        "J4"
+      ],
+      "note": "J4 joins the K1-K4 output leg feeding P1-3 to the K5-K8 leg feeding P1-6, J3 joins the C leg to the F leg. Fitted: one 8x1 switcher, output on 6/F (and 3/C in parallel). Removed: two 4x1 switchers, IN 1-4 to 3/C, IN 5-8 to 6/F. Reading of which bus is which is from the wiring, not stated in words."
+    }
+  ],
+  "unread": [
+    "no title block, drawing number or date on the picture",
+    "connector name not drawn; 'P1' assumed",
+    "the relay coil supply: CTL n lands on the coil through CRn (1N4003); coil other end to +24V CTL on pin 1 - control is a ground/switch closure to CTL n, read from wiring"
+  ],
+  "confidence": "high",
+  "notes": "Schematic only: 8 relays K1-K8 (CR odd = series diode, CR even = coil clamp, 1N4003), each switching a balanced input pair onto the output bus. Inputs: IN1 15/S, IN2 14/R, IN3 13/P, IN4 12/N, IN5 11/M, IN6 10/L, IN7 9/K, IN8 8/J. Controls CTL1-8: 2, B, 4, D, 5, E, 7, H. No +/- marks: a = number pin, b = letter pin. Output ports named OUTPUT A (6/F) and OUTPUT B (3/C) here; the drawing labels both just OUTPUT."
+}
