@@ -1,5 +1,5 @@
 # 1994 - M808A - #Schematic #Pinout.jpg
-Wiki page: [M808A](../../../../PAGES/M808A.md)
+Wiki page: [M808A](../)
 
 
 - **Year:** 1994 (module estimate (family))

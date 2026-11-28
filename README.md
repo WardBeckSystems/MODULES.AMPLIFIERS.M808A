@@ -1,6 +1,6 @@
 # M808A 8x1 Relay Switcher Card · Amplifiers
 
-Ward-Beck Systems M808A, 1994|27. Wiki page: [M808A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M808A.html)
+Ward-Beck Systems M808A, 1994|27. Wiki page: [M808A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M808A-8x1-Relay-Switcher-Card/)
 
 | Folder | What is in it | Files |
 |---|---|---|
