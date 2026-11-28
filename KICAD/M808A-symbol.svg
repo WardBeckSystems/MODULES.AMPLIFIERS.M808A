@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 837 1617" font-family="Overpass Mono, ui-monospace, monospace">
+<title>M808A: M808A 8x1 Relay Switcher Card (Amplifiers), Ward-Beck Systems. Pinout from RTO.json.</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="215.4" y="219.8" width="406.4" height="1219.2" fill="#E3EEF9" stroke="#1F5F8B" stroke-width="2.5"/>
+<line x1="164.6" y1="397.6" x2="215.4" y2="397.6" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="397.6" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="397.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-8-A</text>
+<text x="190.0" y="393.6" font-size="10" text-anchor="middle" fill="#2E6B34">8</text>
+<line x1="164.6" y1="423.0" x2="215.4" y2="423.0" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="423.0" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="423.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-8-B</text>
+<text x="190.0" y="419.0" font-size="10" text-anchor="middle" fill="#2E6B34">J</text>
+<line x1="164.6" y1="473.8" x2="215.4" y2="473.8" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="473.8" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="473.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-7-A</text>
+<text x="190.0" y="469.8" font-size="10" text-anchor="middle" fill="#2E6B34">9</text>
+<line x1="164.6" y1="499.2" x2="215.4" y2="499.2" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="499.2" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="499.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-7-B</text>
+<text x="190.0" y="495.2" font-size="10" text-anchor="middle" fill="#2E6B34">K</text>
+<line x1="164.6" y1="550.0" x2="215.4" y2="550.0" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="550.0" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="550.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-6-A</text>
+<text x="190.0" y="546.0" font-size="10" text-anchor="middle" fill="#2E6B34">10</text>
+<line x1="164.6" y1="575.4" x2="215.4" y2="575.4" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="575.4" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="575.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-6-B</text>
+<text x="190.0" y="571.4" font-size="10" text-anchor="middle" fill="#2E6B34">L</text>
+<line x1="164.6" y1="626.2" x2="215.4" y2="626.2" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="626.2" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="626.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-5-A</text>
+<text x="190.0" y="622.2" font-size="10" text-anchor="middle" fill="#2E6B34">11</text>
+<line x1="164.6" y1="651.6" x2="215.4" y2="651.6" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="651.6" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="651.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-5-B</text>
+<text x="190.0" y="647.6" font-size="10" text-anchor="middle" fill="#2E6B34">M</text>
+<line x1="164.6" y1="702.4" x2="215.4" y2="702.4" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="702.4" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="702.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-4-A</text>
+<text x="190.0" y="698.4" font-size="10" text-anchor="middle" fill="#2E6B34">12</text>
+<line x1="164.6" y1="727.8" x2="215.4" y2="727.8" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="727.8" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="727.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-4-B</text>
+<text x="190.0" y="723.8" font-size="10" text-anchor="middle" fill="#2E6B34">N</text>
+<line x1="164.6" y1="778.6" x2="215.4" y2="778.6" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="778.6" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="778.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-3-A</text>
+<text x="190.0" y="774.6" font-size="10" text-anchor="middle" fill="#2E6B34">13</text>
+<line x1="164.6" y1="804.0" x2="215.4" y2="804.0" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="804.0" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="804.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-3-B</text>
+<text x="190.0" y="800.0" font-size="10" text-anchor="middle" fill="#2E6B34">P</text>
+<line x1="164.6" y1="854.8" x2="215.4" y2="854.8" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="854.8" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="854.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-2-A</text>
+<text x="190.0" y="850.8" font-size="10" text-anchor="middle" fill="#2E6B34">14</text>
+<line x1="164.6" y1="880.2" x2="215.4" y2="880.2" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="880.2" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="880.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-2-B</text>
+<text x="190.0" y="876.2" font-size="10" text-anchor="middle" fill="#2E6B34">R</text>
+<line x1="164.6" y1="931.0" x2="215.4" y2="931.0" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="931.0" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="931.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-1-A</text>
+<text x="190.0" y="927.0" font-size="10" text-anchor="middle" fill="#2E6B34">15</text>
+<line x1="164.6" y1="956.4" x2="215.4" y2="956.4" stroke="#2E6B34" stroke-width="2"/>
+<circle cx="164.6" cy="956.4" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
+<text x="223.0" y="956.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">IN-1-B</text>
+<text x="190.0" y="952.4" font-size="10" text-anchor="middle" fill="#2E6B34">S</text>
+<line x1="164.6" y1="1007.2" x2="215.4" y2="1007.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1007.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="223.0" y="1007.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">CONTROL-1</text>
+<text x="190.0" y="1003.2" font-size="10" text-anchor="middle" fill="#7A4E2A">2</text>
+<line x1="164.6" y1="1058.0" x2="215.4" y2="1058.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1058.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="223.0" y="1058.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">CONTROL-3</text>
+<text x="190.0" y="1054.0" font-size="10" text-anchor="middle" fill="#7A4E2A">4</text>
+<line x1="164.6" y1="1108.8" x2="215.4" y2="1108.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1108.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="223.0" y="1108.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">CONTROL-5</text>
+<text x="190.0" y="1104.8" font-size="10" text-anchor="middle" fill="#7A4E2A">5</text>
+<line x1="164.6" y1="1159.6" x2="215.4" y2="1159.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1159.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="223.0" y="1159.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">CONTROL-7</text>
+<text x="190.0" y="1155.6" font-size="10" text-anchor="middle" fill="#7A4E2A">7</text>
+<line x1="164.6" y1="1210.4" x2="215.4" y2="1210.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1210.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="223.0" y="1210.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">CONTROL-2</text>
+<text x="190.0" y="1206.4" font-size="10" text-anchor="middle" fill="#7A4E2A">B</text>
+<line x1="164.6" y1="1261.2" x2="215.4" y2="1261.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1261.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="223.0" y="1261.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">CONTROL-4</text>
+<text x="190.0" y="1257.2" font-size="10" text-anchor="middle" fill="#7A4E2A">D</text>
+<line x1="164.6" y1="1312.0" x2="215.4" y2="1312.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1312.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="223.0" y="1312.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">CONTROL-6</text>
+<text x="190.0" y="1308.0" font-size="10" text-anchor="middle" fill="#7A4E2A">E</text>
+<line x1="164.6" y1="1362.8" x2="215.4" y2="1362.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1362.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="223.0" y="1362.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">CONTROL-8</text>
+<text x="190.0" y="1358.8" font-size="10" text-anchor="middle" fill="#7A4E2A">H</text>
+<line x1="672.6" y1="397.6" x2="621.8" y2="397.6" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="672.6" cy="397.6" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="614.2" y="397.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">OUTPUT-(K1-K4-BUS)-A</text>
+<text x="647.2" y="393.6" font-size="10" text-anchor="middle" fill="#1F5F8B">3</text>
+<line x1="672.6" y1="423.0" x2="621.8" y2="423.0" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="672.6" cy="423.0" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="614.2" y="423.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">OUTPUT-(K1-K4-BUS)-B</text>
+<text x="647.2" y="419.0" font-size="10" text-anchor="middle" fill="#1F5F8B">C</text>
+<line x1="672.6" y1="473.8" x2="621.8" y2="473.8" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="672.6" cy="473.8" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="614.2" y="473.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">OUTPUT-(K5-K8-BUS)-A</text>
+<text x="647.2" y="469.8" font-size="10" text-anchor="middle" fill="#1F5F8B">6</text>
+<line x1="672.6" y1="499.2" x2="621.8" y2="499.2" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="672.6" cy="499.2" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="614.2" y="499.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">OUTPUT-(K5-K8-BUS)-B</text>
+<text x="647.2" y="495.2" font-size="10" text-anchor="middle" fill="#1F5F8B">F</text>
+<line x1="418.6" y1="169.0" x2="418.6" y2="219.8" stroke="#A52A22" stroke-width="2"/>
+<circle cx="418.6" cy="169.0" r="3" fill="#fff" stroke="#A52A22" stroke-width="1.5"/>
+<text x="418.6" y="227.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c" transform="rotate(-90 418.6 227.4)">+24-V-CONTROL</text>
+<text x="414.6" y="194.4" font-size="10" text-anchor="middle" fill="#A52A22" transform="rotate(-90 414.6 194.4)">1</text>
+<text x="418.6" y="101.6" font-size="14" font-weight="700" text-anchor="middle" fill="#1F5F8B">M808A</text>
+<text x="418.6" y="1515.2" font-size="11" text-anchor="middle" fill="#6d6a63">Amplifiers · RTO-144 · Ward-Beck Systems</text>
+</svg>
